@@ -11,7 +11,7 @@ This is a project about buiding a QR-code using HTML and CSS.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://qr-code-ochre-two.vercel.app/)
 
 ## My process
 
