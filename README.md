@@ -10,8 +10,9 @@ This is a project about buiding a QR-code using HTML and CSS.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://qr-code-ochre-two.vercel.app/)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-webpage-using-css-flexbox-ML_d7iOVfx)
+  
+- Live Site URL: [Live URL here](https://qr-code-ochre-two.vercel.app/)
 
 ## My process
 
